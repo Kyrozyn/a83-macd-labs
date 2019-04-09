@@ -28,7 +28,7 @@
  <?php
     $host = "databaseky.database.windows.net";
     $user = "kyrozyn";
-    $pass = "anyand32";
+    $pass = "anyand32!";
     $db = "database1";
 
     try {
